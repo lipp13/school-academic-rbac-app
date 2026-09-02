@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Sistem Akademik (RBAC Bab 6)",
-    "slug": "auth-lanjutan-app",
+    "slug": "school-academic-rbac-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,7 +20,7 @@
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundColor": "#1E3A8A"
       },
-      "package": "com.mapill.authlanjutan"
+      "package": "com.mapill.schoolacademicrbacapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
