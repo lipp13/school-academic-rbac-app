@@ -82,7 +82,7 @@ Bab ini merupakan tingkat lanjutan keamanan data di sisi backend maupun frontend
 ## 📂 Struktur Direktori Proyek
 
 ```text
-auth-lanjutan-app/
+school-academic-rbac-app/
 ├── supabase_bab6_schema.sql    # Skrip SQL Lengkap (Tabel, Trigger, RLS Policy, Seed Data)
 ├── App.jsx                     # Root Component & Inisialisasi Auth Store
 ├── package.json
@@ -170,7 +170,7 @@ EXPO_PUBLIC_SUPABASE_ANON_KEY=eyJh...anon-key-anda
 ### 3. Instalasi Dependensi & Menjalankan Aplikasi
 ```bash
 # Masuk ke direktori proyek
-cd auth-lanjutan-app
+cd school-academic-rbac-app
 
 # Install dependencies (jika belum)
 npm install
